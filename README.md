@@ -1,7 +1,7 @@
 # Zoom Clone
 
 Zoom Clone that works on Android & iOS!
-<br>Get the app from link below
+<br>Get the app from link below<br>
 https://drive.google.com/file/d/1DdkBHnvefJAc0MSBQr9UkZaQI0wU417I/view?usp=sharing
 
 ## Tech Used
@@ -11,10 +11,12 @@ https://drive.google.com/file/d/1DdkBHnvefJAc0MSBQr9UkZaQI0wU417I/view?usp=shari
 
 
 ## Screenshots 
-<img src= "screenshots/1.jpg" height="400px">
-<img src= "screenshots/2.jpg" height="400px">
-<img src= "screenshots/3.jpg" height="400px">
-<img src= "screenshots/4.jpg" height="400px">
+<p float="left">
+  <img src= "screenshots/1.jpg" height="400px">
+  <img src= "screenshots/2.jpg" height="400px">
+  <img src= "screenshots/3.jpg" height="400px">
+  <img src= "screenshots/4.jpg" height="400px">
+</p>
 
 
 ## Features
@@ -37,9 +39,7 @@ https://drive.google.com/file/d/1DdkBHnvefJAc0MSBQr9UkZaQI0wU417I/view?usp=shari
 17. Log out
 
 
-<br>
-
-### Special Thanks => Rivaan
+#### Special Thanks => Rivaan
 
 
 
