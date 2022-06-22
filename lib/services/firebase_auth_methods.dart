@@ -44,9 +44,12 @@ class AuthMethods {
     return res;
   }
 
-  void signOut() async{
+  void signOut() async {
     try {
-     await _auth.signOut();
+      await _auth.signOut();
+
+      // Disconnects the current user from the app and revokes previous authentication.
+      await GoogleSignIn().disconnect();
     } on FirebaseAuthException catch (e) {
       print(e.message!);
     }
